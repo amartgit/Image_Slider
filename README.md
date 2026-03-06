@@ -4,6 +4,8 @@
 This project is a responsive image slider built using HTML, CSS, and JavaScript.  
 It displays a collection of images with next/previous navigation and automatic slideshow functionality.
 
+[View Live](https://amartgit.github.io/Image_Slider/)
+
 ## Features
 - Next & Previous navigation
 - Automatic slideshow (every 3 seconds)
